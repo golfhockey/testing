@@ -1,2 +1,2 @@
 CRLF
-LF
+CRLF
