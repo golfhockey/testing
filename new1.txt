@@ -1,5 +1,4 @@
-this is a crlf
-this is a crlf again
-this is a lf
-this is a lf again
-this is a crlf
+LF1
+LF2
+CRLF1
+CRLF2
