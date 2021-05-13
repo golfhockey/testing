@@ -1,5 +1,5 @@
 this is a crlf
 this is a crlf again
-this is a lf
+this is a crlf now
 this is a lf again
 this is a lf
